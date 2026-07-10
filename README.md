@@ -17,14 +17,21 @@
 
 ## Installation
 
-As this extension is currently unlisted on the Chrome Web Store, it must be installed locally using the following steps:
+You can install Lazy TypeTest directly from the Chrome Web Store:
 
-1. Clone or download this repository to the local machine.
+1. Visit the [Lazy TypeTest page on the Chrome Web Store](https://chromewebstore.google.com/detail/lazy-typetest/phpoafmilccleeielcgnpidencfmilmg?hl=en-US).
+2. Click the **Add to Chrome** button.
+3. Once installed, you can pin the extension to your browser toolbar for quick access.
+
+### Manual Installation (Developer Mode)
+
+If you prefer to install it locally from source:
+
+1. Clone or download this repository to your local machine.
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer mode** using the toggle located in the top right corner.
 4. Click the **Load unpacked** button in the top left corner.
 5. Select the downloaded `Lazy_TypeTest` directory.
-6. The extension is now installed and can be pinned to the browser toolbar for quick access.
 
 ## Usage Guide
 
